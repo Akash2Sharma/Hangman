@@ -27,8 +27,8 @@ public class Hangman {
  	/**********
 	 * This private method plays a single game and returns true or false based on the outcome
 	 * 
-	 * @param theSecretWord		The secret word the player needs to guess
-	 * @return					True if the player wins, else false
+	 * @param theSecretWord	The secret word the player needs to guess
+	 * @return True if the player wins, else false
 	 */
 	private static boolean thePlayerWonTheGame(String theSecretWord){
 		int guess =1;
