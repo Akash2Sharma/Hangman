@@ -89,7 +89,7 @@ public class Hangman {
 			System.out.println("The program terminates now.");
 			System.exit(0);
 		}
-
+                                                               																																																																																																																																																																								
 		// If we get here, the file is there and can be read.  So we use the "nextInt" method
 		// to determine how many words to read in.  We then use that value to allocate an
 		// array of just the right size
