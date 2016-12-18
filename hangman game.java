@@ -34,9 +34,8 @@ public class Hangman {
 		int i;
 		String word="";
 		 char guessLettr;
-		 String a="";
-
-		 for( i=0;i<theSecretWord.length();i++)
+		 String a=""; 		
+ for( i=0;i<theSecretWord.length();i++)
           word=word.substring(0,i)+'?';
           System.out.println("Here's the secret word so far: " + word);
 	      while(guess<=10){
