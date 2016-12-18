@@ -20,8 +20,7 @@ import java.util.Scanner;
  *
  * @author AKASH SHARMA
  * @version 2.00
- */
-
+ */ 
 public class Hangman {
 	private static Scanner keyboard = new Scanner(System.in);	// The scanner for the keyboard
  	/**********
