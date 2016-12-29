@@ -148,5 +148,5 @@ public class Hangman {
 			answer = keyboard.next().trim();
 					
 }
-	}
+	} 
 }
