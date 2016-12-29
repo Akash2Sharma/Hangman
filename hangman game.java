@@ -146,7 +146,7 @@ public class Hangman {
 			// Prompt the user to see if they wish to play another game
 			System.out.print(DO_YOU_WISH_TO_PLAY);
 			answer = keyboard.next().trim();
-			
-		}
+					
+}
 	}
 }
